@@ -38,6 +38,9 @@
     <ClCompile Include="..\ContactManagementSystem\Name.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\ContactManagementSystem\Address.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\ContactManagementSystem\contactinput.txt">

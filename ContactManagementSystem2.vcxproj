@@ -133,6 +133,7 @@
     <ClInclude Include="..\ContactManagementSystem\Name.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\ContactManagementSystem\Address.cpp" />
     <ClCompile Include="..\ContactManagementSystem\ContactManager.cpp" />
     <ClCompile Include="..\ContactManagementSystem\main.cpp" />
     <ClCompile Include="..\ContactManagementSystem\Name.cpp" />
